@@ -1,0 +1,2 @@
+{:src ["."]
+ :deps {io.minio/minio {:mvn/version "8.5.7"}}}
